@@ -10,7 +10,7 @@ import os
 import time
 import hashlib
 import streamlit as st
-from pymupdf import fitz  # pymupdf
+#import fitz  # pymupdf
 from groq import Groq
 from qdrant_client import QdrantClient
 from qdrant_client.models import (
